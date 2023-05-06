@@ -1,4 +1,5 @@
-  "Title": "Revenge",
+{
+    "Title": "Revenge",
     "Credits": "Created by Guixiang Li (gli76@ucsc.edu).",
     "InitialLocation": "Area 1",
     "Locations": {
