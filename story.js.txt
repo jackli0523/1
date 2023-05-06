@@ -1,0 +1,57 @@
+  "Title": "Revenge",
+    "Credits": "Created by Guixiang Li (gli76@ucsc.edu).",
+    "InitialLocation": "Area 1",
+    "Locations": {
+        "house": {
+            "Body": "This is Area 1, your hometown",
+            "Choices": [
+                {
+                    "Text": "South",
+                    "Target": "Area 2"
+                }
+            ]
+        },
+        "Area 2": {
+            "Body": "This is Area 2, Counquered by the enemy",
+            "Choices": [
+                {
+                    "Text": "North",
+                    "Target": "Area 3"
+                },
+                {
+                    "Text": "South",
+                    "Target": "Area 4"
+                }
+            ]
+        },
+        "Area 4": {
+            "Body": "Area 4, A forest around by the sea.",
+            "Choices": [
+                {
+                    "Text": "North",
+                    "Target": "Area 3"
+                },
+                {
+                    "Text": "South",
+                    "Target": "Area 4"
+                }
+            ]
+        },
+        "Area 4": {
+            "Body": "Around by lots of soilders",
+            "Choices": [
+                {
+                    "Text": "North",
+                    "Target": "Area 5"
+                },
+                {
+                    "Text": "South",
+                    "Target": "Area 6"
+                }
+            ]
+        },
+        "Area 6": {
+            "Body": "Dont go there!"
+        }
+    }
+}
